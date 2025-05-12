@@ -51,7 +51,6 @@ CREATE TABLE `fish_farms`  (
 -- Records of fish_farms
 -- ----------------------------
 INSERT INTO `fish_farms` VALUES (1, 9, '北京市', '海河流域', '鼓楼外大街');
-INSERT INTO `fish_farms` VALUES (2, 6, '北京市', '海河流域', '广北滨河路(桥）');
 INSERT INTO `fish_farms` VALUES (3, 3, '北京市', '海河流域', '沙窝');
 INSERT INTO `fish_farms` VALUES (4, 1, '北京市', '海河流域', '新八里桥');
 INSERT INTO `fish_farms` VALUES (5, 8, '北京市', '海河流域', '大红门闸上');
