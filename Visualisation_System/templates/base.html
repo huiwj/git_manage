@@ -89,6 +89,7 @@
 <body>
   <header>
     <h1>用户管理系统</h1>
+    <h1>用户管理系统</h1>
     {% if session.username %}
       <p>当前用户：{{ session.username }} | 角色：{{ session.role }} | <a href="{{ url_for('logout') }}">退出登录</a></p>
     {% endif %}
